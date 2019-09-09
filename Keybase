@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am mrtheface on github.
+  * I am mr_the_face (https://keybase.io/mr_the_face) on keybase.
+  * I have a public key ASC6p-VdszbNLAO9K8VLrghwsfqWJHLMznAwh281IofsAAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120baa7e55db336cd2c03bd2bc54bae0870b1fa962472ccce7030876f352287ec000a",
+      "host": "keybase.io",
+      "kid": "0120baa7e55db336cd2c03bd2bc54bae0870b1fa962472ccce7030876f352287ec000a",
+      "uid": "018a3a79a9c018a47c035ecf5f5d5819",
+      "username": "mr_the_face"
+    },
+    "merkle_root": {
+      "ctime": 1568060002,
+      "hash": "243dbf98325b1e4e8522a9d825f842ab1fa1a59611d279a4c6f777789a0fe4f03e7957cb5f5f669bd03ad5ea00e705f656816c97acd4f9527f2f6b298e64f6e8",
+      "hash_meta": "d04f55843acb0885517fd3a0d89e4019fd319beb68896b40acb1143d46d9c52a",
+      "seqno": 6245998
+    },
+    "service": {
+      "entropy": "b/PjX81lOZd1AQseRnR2pX5D",
+      "name": "github",
+      "username": "mrtheface"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568060009,
+  "expire_in": 504576000,
+  "prev": "7d1396f178ec83f3cb5de46facb006b719d2ce18a39fbbfa088869c0b04dd0e6",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASC6p-VdszbNLAO9K8VLrghwsfqWJHLMznAwh281IofsAAo](https://keybase.io/mr_the_face), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEguqflXbM2zSwDvSvFS64IcLH6liRyzM5wMIdvNSKH7AAKp3BheWxvYWTESpcCBcQgfROW8Xjsg/PLXeRvrLAGtxnSzhijn7v6CIhpwLBN0ObEIOtp24b4bBBFSFPJ9e82zV1/TOETnqpcijk9I7tRV4fzAgHCo3NpZ8RAvhIia57GAu4ZSxK+M/M6J51pneLRzZD1BFAADKnh8Z6dcOkEtuX9bQTZn8HUTUP/NdF/H2lNKBbzNN5IEzsnBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFszO5b9av90Gx7fxggCfBApe6x6cRFfqRCbU4I40bYQo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/mr_the_face
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id mr_the_face
+```
